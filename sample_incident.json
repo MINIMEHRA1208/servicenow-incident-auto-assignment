@@ -1,0 +1,5 @@
+{
+  "short_description": "CPU utilization high on prod-db-01",
+  "cmdb_ci": "prod-db-01",
+  "severity": "critical"
+}
